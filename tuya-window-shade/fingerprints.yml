@@ -209,6 +209,45 @@ zigbeeManufacturer:
 
 
 
+  - id: "_TZE200_yenbr4om/TS0601"
+    deviceLabel: Tuya Window Shade
+    manufacturer: _TZE200_yenbr4om
+    model: TS0601
+    deviceProfileName: tuya-window-shade
+  - id: "_TZE200_gubdgai2/TS0601"
+    deviceLabel: Tuya Window Shade
+    manufacturer: _TZE200_gubdgai2
+    model: TS0601
+    deviceProfileName: tuya-window-shade
+  - id: "_TZE200_hsgrhjpf/TS0601"
+    deviceLabel: Tuya Window Shade
+    manufacturer: _TZE200_hsgrhjpf
+    model: TS0601
+    deviceProfileName: tuya-window-shade
+  - id: "_TZE200_rddyvrci/TS0601"
+    deviceLabel: Tuya Window Shade
+    manufacturer: _TZE200_rddyvrci
+    model: TS0601
+    deviceProfileName: tuya-window-shade
+  - id: "_TZE200_68nvbio9/TS0601"
+    deviceLabel: Tuya Window Shade
+    manufacturer: _TZE200_68nvbio9
+    model: TS0601
+    deviceProfileName: tuya-window-shade
+  - id: "_TZE200_68nvbio9/TS0601"
+    deviceLabel: Tuya Window Shade
+    manufacturer: _TZE200_68nvbio9
+    model: TS0601
+    deviceProfileName: tuya-window-shade
+  - id: "_TZE200_iossyxra/TS0601"
+    deviceLabel: Tuya Window Shade
+    manufacturer: _TZE200_iossyxra
+    model: TS0601
+    deviceProfileName: tuya-window-shade
+
+
+
+
 # This driver can be applied to any zigbee devices, but never used for pairing.
 zigbeeThing :
   - id: ZigbeeThing
